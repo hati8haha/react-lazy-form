@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lazy-form/static/css/main.ecf577fb.chunk.css",
+    "main.js": "/react-lazy-form/static/js/main.9907715f.chunk.js",
+    "main.js.map": "/react-lazy-form/static/js/main.9907715f.chunk.js.map",
+    "runtime-main.js": "/react-lazy-form/static/js/runtime-main.cc8e45ae.js",
+    "runtime-main.js.map": "/react-lazy-form/static/js/runtime-main.cc8e45ae.js.map",
+    "static/js/2.49cc5dab.chunk.js": "/react-lazy-form/static/js/2.49cc5dab.chunk.js",
+    "static/js/2.49cc5dab.chunk.js.map": "/react-lazy-form/static/js/2.49cc5dab.chunk.js.map",
+    "static/js/3.279d5d4e.chunk.js": "/react-lazy-form/static/js/3.279d5d4e.chunk.js",
+    "static/js/3.279d5d4e.chunk.js.map": "/react-lazy-form/static/js/3.279d5d4e.chunk.js.map",
+    "index.html": "/react-lazy-form/index.html",
+    "static/css/main.ecf577fb.chunk.css.map": "/react-lazy-form/static/css/main.ecf577fb.chunk.css.map",
+    "static/js/2.49cc5dab.chunk.js.LICENSE.txt": "/react-lazy-form/static/js/2.49cc5dab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc8e45ae.js",
+    "static/js/2.49cc5dab.chunk.js",
+    "static/css/main.ecf577fb.chunk.css",
+    "static/js/main.9907715f.chunk.js"
+  ]
+}
